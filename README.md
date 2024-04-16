@@ -1,2 +1,2 @@
 # alurabook
-Projeto desenvolvido no curso de responsividade da Alura.
+Projeto desenvolvido no curso de responsividade (media Query) da Alura e consiste em uma landing page que se adapta a diferentes tamanhos de telas. 
